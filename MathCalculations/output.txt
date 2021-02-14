@@ -1,0 +1,85 @@
+Fahrenheit to Celsius
+
+37F is 2.78C
+36F is 2.22C
+43F is 6.11C
+37F is 2.78C
+35F is 1.67C
+43F is 6.11C
+34F is 1.11C
+
+Celsius back to Fahrenheit
+
+2.78C is 37F
+2.22C is 36F
+6.11C is 43F
+2.78C is 37F
+1.67C is 35F
+6.11C is 43F
+1.11C is 34F
+
+Fahrenheit to Celsius
+
+31F is -0.56C
+39F is  3.89C
+33F is  0.56C
+34F is  1.11C
+32F is  0.00C
+32F is  0.00C
+33F is  0.56C
+39F is  3.89C
+35F is  1.67C
+38F is  3.33C
+35F is  1.67C
+36F is  2.22C
+33F is  0.56C
+38F is  3.33C
+36F is  2.22C
+39F is  3.89C
+38F is  3.33C
+39F is  3.89C
+36F is  2.22C
+32F is  0.00C
+32F is  0.00C
+32F is  0.00C
+34F is  1.11C
+39F is  3.89C
+37F is  2.78C
+30F is -1.11C
+38F is  3.33C
+34F is  1.11C
+39F is  3.89C
+32F is  0.00C
+
+Celsius back to Fahrenheit
+
+-0.56C is 31F
+ 3.89C is 39F
+ 0.56C is 33F
+ 1.11C is 34F
+ 0.00C is 32F
+ 0.00C is 32F
+ 0.56C is 33F
+ 3.89C is 39F
+ 1.67C is 35F
+ 3.33C is 38F
+ 1.67C is 35F
+ 2.22C is 36F
+ 0.56C is 33F
+ 3.33C is 38F
+ 2.22C is 36F
+ 3.89C is 39F
+ 3.33C is 38F
+ 3.89C is 39F
+ 2.22C is 36F
+ 0.00C is 32F
+ 0.00C is 32F
+ 0.00C is 32F
+ 1.11C is 34F
+ 3.89C is 39F
+ 2.78C is 37F
+-1.11C is 30F
+ 3.33C is 38F
+ 1.11C is 34F
+ 3.89C is 39F
+ 0.00C is 32F
